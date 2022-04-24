@@ -1,0 +1,9 @@
+baseURL = 'https://kiyo27.github.io/'
+languageCode = 'en'
+title = 'Tales From the Middle of Nowhere'
+theme = 'noteworthy'
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+
