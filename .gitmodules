@@ -1,4 +1,4 @@
 [submodule "themes/noteworthy"]
 	path = themes/noteworthy
-	url = https://github.com/kiyo27/hugo-theme-noteworthy.git
+	url = git@github.com:kiyo27/hugo-theme-noteworthy.git
 
