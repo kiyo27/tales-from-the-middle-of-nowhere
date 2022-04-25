@@ -1,5 +1,5 @@
 ---
-title: "Dont Look Back in Anger"
+title: "Don't Look Back In Anger はやっぱり「best of 名曲」だよね"
 date: 2022-04-26T02:05:08+09:00
 draft: false
 tags:
